@@ -1,5 +1,4 @@
 # Instagram user analytics.github.io
-Here's a rewritten version of the provided description, suitable for a GitHub README for an SQL project analyzing an Instagram-like database:
 
 Project Title: Instagram-like Database Analysis
 
